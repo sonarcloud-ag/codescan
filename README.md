@@ -59,7 +59,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
 - Create a folder in
   [projects directory](https://github.com/Python-World/python-mini-projects/tree/master/projects)
-  according to issue name.
+  according to issue name .
 - Write your code and add to the respective folder in the projects directory, locally.
 - Don't forget to add a `README.md` in your folder, according to the
    [README_TEMPLATE.](https://github.com/Python-World/python-mini-projects/blob/master/README_TEMPLATE.md)
